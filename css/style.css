@@ -10,9 +10,13 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #fff;
-  color: #666666;
+  background: #18d36e;
+  color: #072b0e;
   font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  color: #18d36e;
 }
 
 a {
